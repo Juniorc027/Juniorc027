@@ -36,17 +36,23 @@ Estou sempre em busca de novos aprendizados em programação e novas tecnologias
 - Geração de relatórios de frequência e pagamentos  
 - Interface web simples, voltada para usabilidade  
 
-Repositório: [[https://github.com/Juniorc027/Projeto_Transporte2](https://github.com/Juniorc027/Projeto_Transporte2)](#link-do-repo)  
+Repositório: [[https://github.com/Juniorc027/Projeto_Transporte2](https://github.com/Juniorc027/Projeto_Transporte2)]
 
 ---
 
-### 2. Sistema de Agendamento de Serviços (Web)  
-**Tecnologias:** Python • HTML • CSS • JavaScript  
-- Cadastro de clientes e controle de agendamentos  
-- Estrutura preparada para coleta de dados (estatísticas futuras)  
-- Interface funcional sem frameworks complexos (back-end em Python)  
+### 2. Sistema de Agendamento de Serviços (Projeto Privado)
+Tecnologias utilizadas: Python • HTML • CSS • JavaScript
 
-Repositório: [github.com/Juniorc027/agendamento-servicos](#link-do-repo)  
+Desenvolvimento de sistema web para controle de agendamentos em uma barbearia
+Cadastro de clientes, histórico de atendimentos e gerenciamento de horários
+
+Back-end construído com Python puro, sem uso de frameworks robustos
+
+Estrutura preparada para futura análise de dados (com dashboards)
+
+Interface responsiva e organizada, voltada para uso prático no dia a dia
+
+Projeto privado por questões comerciais. Demonstrações disponíveis sob solicitação. 
 
 ---
 
