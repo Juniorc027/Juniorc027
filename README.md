@@ -36,7 +36,7 @@ Estou sempre em busca de novos aprendizados em programação e novas tecnologias
 - Geração de relatórios de frequência e pagamentos  
 - Interface web simples, voltada para usabilidade  
 
-Repositório: [https://github.com/Juniorc027/Projeto_Transporte2](#link-do-repo)  
+Repositório: [[https://github.com/Juniorc027/Projeto_Transporte2](https://github.com/Juniorc027/Projeto_Transporte2)](#link-do-repo)  
 
 ---
 
