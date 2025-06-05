@@ -1,58 +1,69 @@
-<p align="center">
-  <a href="#">
-    <img align="center" width="450" src="https://github.com/Juniorc027/Juniorc027/blob/main/b0663d10cc1b2ab5e28c5fab54bd1925.gif?raw=true" />
-  </a>
-</p>
-</br>
-</br>
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juniorc027&layout=compact&langs_count=7&theme=dracula"
-    />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=Juniorc027&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
-    />
-  </a>
-</p>
+<!-- Título / Cabeçalho -->
+# Amilton Junior Da Costa Monteiro
 
-## Olá, eu sou Amilton Junior!
+**Estudante de Análise e Desenvolvimento de Sistemas**  
+**Em busca de estágio em Desenvolvimento Backend / Análise de Dados**  
 
-**Pode me chamar de Junior!**
+---
 
-### Sobre mim
-<div style="display: inline_block">
-<img align="right" width="250" height="180" style="border-radius:30px;" src="https://cdn.streamelements.com/uploads/7a4b40fd-c7d8-40c4-9c73-cf4f7a6845ea.gif" />
-<p> - 🎓 Estudante de Análise e Desenvolvimento de Sistemas. </p>
-<p> - 💻 Apaixonado por programação em Python e soluções para problemas reais. </p>
-<p> - 🌱 Aprendendo Python e Banco de Dados (autodidata). </p>
-<p> - 🔍 Buscando estágio para desenvolver novas habilidades. </p>
-</div>
+## Sobre Mim
 
-## Minhas skills :nerd_face:
-<div align="center">
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+Olá! Meu nome é Amilton Junior. Sou estudante de ADS na UCL (2º período) e tenho perfil **autodidata**.  
+Estou sempre em busca de novos aprendizados em programação e tecnologias de dados.  
 
- ##  Meus contatos :iphone:
-<p align="center">
-    <a href="https://github.com/Juniorc027">
-        <img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=https://github.com/Juniorc027">
-    </a>
-             
-    <a href="mailto:amiltonjuniorcosta25@gmail.com">
-        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:amiltonjuniorcosta25@gmail.com">
-    </a>
-</p>
+- 📚 **Estudante de ADS** – Faculdade UCL (desde 2023)  
+- 💻 **Tecnologias favoritas:** Python, MySQL, Power BI, HTML/CSS/JavaScript  
+- 🚀 **Objetivo:** Conquistar meu primeiro estágio aplicando conhecimentos em backend e análise de dados
 
-<p align="center"> 
- ## Total de visitas no meu perfil :detective: <br>
- <p align="center"> 
-   <img align="center" src="https://profile-counter.glitch.me/Juniorc027/count.svg" />
- </p>
-</p>
+---
+
+## Habilidades Técnicas
+
+- **Linguagens:** Python (intermediário), JavaScript (básico), HTML/CSS (básico)  
+- **Banco de Dados:** MySQL (básico), SQLite (básico)  
+- **Ferramentas & Frameworks:**  
+  - Power BI (Dashboards, DAX)  
+  - Flask (desenvolvimento web em Python)  
+  - Git & GitHub  
+  - VS Code  
+
+---
+
+## Projetos Destacados
+
+### 1. Sistema de Gestão para Transporte Escolar  
+**Tecnologias:** Python • MySQL • Flask • HTML • CSS  
+- Cadastro e controle de alunos, escolas e responsáveis  
+- Geração de relatórios de frequência e pagamentos  
+- Interface web simples, voltada para usabilidade  
+
+Repositório: [github.com/Juniorc027/gestao-transporte-escolar](#link-do-repo)  
+
+---
+
+### 2. Sistema de Agendamento de Serviços (Web)  
+**Tecnologias:** Python • HTML • CSS • JavaScript  
+- Cadastro de clientes e controle de agendamentos  
+- Estrutura preparada para coleta de dados (estatísticas futuras)  
+- Interface funcional sem frameworks complexos (back-end em Python)  
+
+Repositório: [github.com/Juniorc027/agendamento-servicos](#link-do-repo)  
+
+---
+
+## Certificações
+
+- **Power BI Completo – Do Básico ao Avançado** (Udemy, Maio/2025)  
+- **Excel Intermediário** (Fundação Bradesco, 2025)  
+- **Introdução ao Python** (Curso Livre, 2024)  
+
+---
+
+## Contato
+
+- 📫 Email: amiltonjuniorcosta25@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/amilton-junior-92a2592b0](https://www.linkedin.com/in/amilton-junior-92a2592b0)  
+
+---
+
+> “Aprendo na prática, aplico na vida real.”  
