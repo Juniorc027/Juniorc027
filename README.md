@@ -2,7 +2,7 @@
 # Amilton Junior Da Costa Monteiro
 
 **Estudante de Análise e Desenvolvimento de Sistemas**  
-**Em busca de estágio em Desenvolvimento Backend **  
+**Em busca de estágio em Desenvolvimento Backend**  
 
 ---
 
