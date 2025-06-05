@@ -9,10 +9,9 @@
 ## Sobre Mim
 
 Olá! Meu nome é Amilton Junior. Sou estudante de ADS na UCL (2º período) e tenho perfil **autodidata**.  
-Estou sempre em busca de novos aprendizados em programação e tecnologias de dados.  
+Estou sempre em busca de novos aprendizados em programação e novas tecnologias.  
 
-- 📚 **Estudante de ADS** – Faculdade UCL (desde 2023)  
-- 💻 **Tecnologias favoritas:** Python, MySQL, Power BI, HTML/CSS/JavaScript  
+- 📚 **Estudante de ADS** – Faculdade UCL (desde 2024)   
 - 🚀 **Objetivo:** Conquistar meu primeiro estágio aplicando conhecimentos em backend e análise de dados
 
 ---
@@ -20,7 +19,7 @@ Estou sempre em busca de novos aprendizados em programação e tecnologias de da
 ## Habilidades Técnicas
 
 - **Linguagens:** Python (intermediário), JavaScript (básico), HTML/CSS (básico)  
-- **Banco de Dados:** MySQL (básico), SQLite (básico)  
+- **Banco de Dados:** MySQL (básico)  
 - **Ferramentas & Frameworks:**  
   - Power BI (Dashboards, DAX)  
   - Flask (desenvolvimento web em Python)  
