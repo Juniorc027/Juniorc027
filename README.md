@@ -135,8 +135,7 @@ graph TD
 ## 🎵 Inspiração
 > *"The only way to do great work is to love what you do."*  
 > — Steve Jobs
-
-✨ Levo essa frase comigo porque acredito que a paixão é o motor da excelência.  
+  
 Cada linha de código, cada projeto, é uma oportunidade de crescer, aprender e me aproximar do futuro que estou construindo na tecnologia.
 
 ---
