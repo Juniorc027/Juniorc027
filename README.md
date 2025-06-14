@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Olá! Eu Me Chamo Amilton Junior
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Olá! Eu sou o Amilton Junior
 
 ### 🚀 Indie Hacker | Backend Developer | Estudante de ADS
 
@@ -12,37 +12,15 @@
 
 ## 🧑‍💻 Sobre Mim
 
-```python
-class AmiltonJunior:
-    def __init__(self):
-        self.nome = "Amilton Junior Da Costa Monteiro"
-        self.cargo = "Estudante de ADS & Futuro Backend Developer"
-        self.universidade = "UCL - 2º Período"
-        self.status = "Em busca do primeiro estágio"
-        self.mindset = "Regressão à média - tudo se equilibra"
-        self.indie_hacker = True
-        
-    def tecnologias_atuais(self):
-        return {
-            "backend": ["Python", "Flask", "Django"],
-            "banco_dados": ["MySQL"],
-            "frontend": ["HTML", "CSS", "JavaScript"],
-            "ferramentas": ["Git", "VS Code", "Power BI"],
-            "estudando": ["Java", "Docker", "JavaScript Avançado"]
-        }
-        
-    def hobbies(self):
-        return ["💰 Mercado Financeiro", "🏐 Vôlei", "💪 Academia", "🏃‍♂️ Esportes"]
-        
-    def objetivo_2025(self):
-        return "Dominar novas tecnologias e conquistar meu primeiro estágio!"
-```
+🎓 Me chamo **Amilton Junior Da Costa Monteiro**, estudante de **ADS (2º período)** na **UCL**.  
+🚀 Atualmente focado em me tornar um **Backend Developer** e conseguir meu primeiro estágio.  
+👨‍💻 Indie Hacker, apaixonado por resolver problemas com código. 
 
 ---
 
 ## 🔥 Minha Jornada
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🔭 **Atualmente trabalhando em:** Sistema Escolar para Transporte (Python + MySQL)
 - 🌱 **Aprendendo:** Java, Docker e JavaScript Avançado
@@ -158,6 +136,15 @@ graph TD
 
 ---
 
+## 🎵 Inspiração
+> *"The only way to do great work is to love what you do."*  
+> — Steve Jobs
+
+✨ Levo essa frase comigo porque acredito que a paixão é o motor da excelência.  
+Cada linha de código, cada projeto, é uma oportunidade de crescer, aprender e me aproximar do futuro que estou construindo na tecnologia.
+
+---
+
 ## 🤝 Vamos Conectar?
 
 <div align="center">
@@ -171,12 +158,6 @@ graph TD
 ---
 
 <div align="center">
-
-### 🎵 Meu Lema de Vida
-> *"Regressão à média - nada fica ruim para sempre, nada fica bom para sempre.  
-> A balança sempre se equilibra, então continue seguindo em frente!"*
-
----
 
 <img src="https://komarev.com/ghpvc/?username=Juniorc027&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
