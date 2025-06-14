@@ -20,7 +20,7 @@
 
 ## 🔥 Minha Jornada
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🔭 **Atualmente trabalhando em:** Sistema Escolar para Transporte (Python + MySQL)
 - 🌱 **Aprendendo:** Java, Docker e JavaScript Avançado
