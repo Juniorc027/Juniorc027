@@ -163,4 +163,5 @@ Cada linha de código, cada projeto, é uma oportunidade de crescer, aprender e 
 <!-- Workflow para blog posts -->
 # 📝 Últimos Posts
 <!-- BLOG-POST-LIST:START -->
+- [Inicio como Desenvolvedor](https://dev.to/juniorc027/inicio-como-desenvolvedor-3m1d)
 <!-- BLOG-POST-LIST:END -->
