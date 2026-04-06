@@ -84,6 +84,7 @@ Previsão de conclusão: Dez/2026
 ## 📝 Últimos posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Inicio como Desenvolvedor](https://dev.to/juniorc027/inicio-como-desenvolvedor-3m1d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
