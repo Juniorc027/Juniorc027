@@ -80,6 +80,16 @@ Previsão de conclusão: Dez/2026
 
 ---
 
+
+## 📝 Últimos posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## Contato
+
 ## Contato
 
 [LinkedIn](https://www.linkedin.com/in/amilton-junior-92a2592b0)  
